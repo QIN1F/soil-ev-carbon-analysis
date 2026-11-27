@@ -1,0 +1,6 @@
+操作：
+1. 替换gene_base文件夹（这个文件夹的名字可以换无所谓）中的五个xls文件
+（如果是美吉跑的，应该在“KEGG的KO汇总表和eggNOG的COG汇总表”文件夹和“7-FunctionAnnotation”）
+2. 替换group_lifehistory.txt分组信息（最好让第二列的列名也为group）
+3. 进入gene_base文件夹，按LH1→LH2→LH3的顺序跑R代码
+4. LH2.MCOA.R 30行前的代码用于调整自己的样品信息（用于配色或形状对应）

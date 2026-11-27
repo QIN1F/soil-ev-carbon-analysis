@@ -1,0 +1,13 @@
+sample	group
+CK1	M-CK
+CK2	M-CK
+CK3	M-CK
+CK4	M-CK
+CK5	M-CK
+CK6	M-CK
+P1	M-P
+P2	M-P
+P3	M-P
+P4	M-P
+P5	M-P
+P6	M-P
